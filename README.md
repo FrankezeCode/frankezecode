@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Frank !
 
-<!--
-**FrankezeCode/frankezecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | System Architect
 
-Here are some ideas to get you started:
+***Creator of Aquarius Lab***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My Portfolio Demo](https://frankeze.vercel.app/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/franklyn-ezeugonna"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@AquariusProtocol"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@franklynezeugonna"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+> 💡 Philosophy are guardrails to knowledge; without philosophy, knowledge is dangerous.
+>
+> ⚡️ AI is the future, but we have to differentiate between **“what we Can” vs “what we Should,”** or humanity will pay the ultimate price: a dystopian society.
+
