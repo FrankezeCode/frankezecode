@@ -12,7 +12,7 @@
   <a href="https://medium.com/@franklynezeugonna"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://x.com/frankezecode_">
   <img
-    src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=&logoColor=white"
+    src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"
     alt="X (formerly Twitter)"
   />
 </a>
