@@ -3,7 +3,7 @@
 ## Software Engineer | System Architect| Community Builder
 
 
-***Creator of Aquarius Protocol***
+***Creator of Aquarius Protocol***. and 
 ***Founder of BetterDev Community***
 
 [My Portfolio Demo](https://frankeze.vercel.app/)
