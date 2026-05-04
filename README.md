@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Frank !
 
-## Software Engineer | System Architect
+## Software Engineer | System Architect| Community Builder
+
 
 ***Creator of Aquarius Lab***
 
